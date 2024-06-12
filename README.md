@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer and bioscientist</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HukumaBob&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HukumaBob&hide_progress=false)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HukumaBob)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **HukumaBob/HukumaBob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
