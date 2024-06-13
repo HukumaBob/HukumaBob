@@ -3,15 +3,14 @@
     <h3>Python разработчик и биолог</h3>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HukumaBob&hide_progress=false" />
+<div align="center">   
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HukumaBob&theme=solarized_dark" />
 </div>
 
 <div align="center">
     <table>
         <tr>
-            <td><img src="карточка1.png" /></td>
+            <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HukumaBob&hide_progress=false" /></td>
             <td><img src="карточка2.png" /></td>
         </tr>
         <tr>
