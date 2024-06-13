@@ -10,12 +10,12 @@
 <div align="center">
     <table>
         <tr>
-            <td> ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HukumaBob&theme=solarized_dark)</td>
-            <td>![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HukumaBob&theme=solarized_dark)</td>
+            <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HukumaBob&theme=solarized_dark)" /></td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HukumaBob&theme=solarized_dark)" /></td>
         </tr>
         <tr>
-            <td>![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HukumaBob&theme=solarized_dark)</td>
-            <td>![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HukumaBob&theme=solarized_dark)</td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HukumaBob&theme=solarized_dark)"< />/td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HukumaBob&theme=solarized_dark)" /></td>
         </tr>
     </table>
 </div>
