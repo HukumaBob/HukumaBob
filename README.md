@@ -4,18 +4,18 @@
 </div>
 
 <div align="center">   
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HukumaBob&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HukumaBob&theme=gruvbox" />
 </div>
 
 <div align="center">
     <table>
         <tr>
-            <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HukumaBob&theme=github_dark" /></td>
-            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HukumaBob&theme=github_dark" /></td>
+            <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HukumaBob&theme=gruvbox" /></td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HukumaBob&theme=gruvbox" /></td>
         </tr>
         <tr>
-            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HukumaBob&theme=solarized_dark" /></td>
-            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HukumaBob&theme=solarized_dark" /></td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HukumaBob&theme=gruvbox" /></td>
+            <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HukumaBob&theme=gruvbox" /></td>
         </tr>
     </table>
 </div>
