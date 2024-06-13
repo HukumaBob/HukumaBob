@@ -3,4 +3,4 @@
 <h3 align="center">Python developer and bioscientist</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HukumaBob&hide_progress=false)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HukumaBob&theme=solarized_dark)
