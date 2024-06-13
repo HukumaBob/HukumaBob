@@ -3,12 +3,9 @@
     <h3>Python Developer and Bioinformatics Specialist</h3>
 </div>
 
-<div align="center">   
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HukumaBob&theme=nord_dark" />
-</div>
-
 <div align="center">
     <table>
+        <tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HukumaBob&theme=nord_dark" /></td></tr>
         <tr>
             <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HukumaBob&theme=nord_dark" /></td>
             <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HukumaBob&theme=nord_dark" /></td>
