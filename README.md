@@ -12,8 +12,7 @@ I build AI-powered tools at the intersection of clinical medicine and software e
 
 - 🩺 **Medical Imaging AI** — endoscopic image segmentation, annotation datasets, computer vision diagnostics
 - 🏥 **HealthTech** — EMR/EHR systems, hospital workflow automation, dynamic clinical forms
-- 🎓 **Background** — PhD in Medicine, trained radiologist turned engineer
-
+- 🎓 **Background** — PhD in Medicine, Gastroenterologist
 ---
 
 ### 🚀 Featured Projects
