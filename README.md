@@ -24,8 +24,6 @@ I build AI-powered tools at the intersection of clinical medicine and software e
 | [endovision](https://github.com/HukumaBob/endovision) | Computer vision pipeline for endoscopy | Python |
 | [endoscopy_analyzer](https://github.com/HukumaBob/endoscopy_analyzer) | Automated analysis of endoscopic studies | Python |
 | [ehr](https://github.com/HukumaBob/ehr) | EHR system with dynamic JSON Schema-based forms | JavaScript |
-| [vitromed](https://github.com/HukumaBob/vitromed) | Medical management platform | TypeScript |
-| [CropCast](https://github.com/HukumaBob/CropCast) | ML-based crop yield forecasting | Python |
 | [doctors_schedule](https://github.com/HukumaBob/doctors_schedule) | Scheduling system for radiologists | Python |
 
 ---
